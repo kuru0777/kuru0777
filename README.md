@@ -6,7 +6,7 @@
 
 ## 🚀 Hakkımda
 
-Flutter ve mobil uygulama geliştirme konusunda **5+ yıl** deneyime sahip bir yazılım geliştiricisiyim. Modern, kullanıcı dostu uygulamalar geliştirmeyi seviyorum ve açık kaynak projelere katkıda bulunmayı hedefliyorum.
+Flutter ve mobil uygulama geliştirme konusunda yeni mezun bilgisine sahip bir yazılım geliştiricisiyim. Modern, kullanıcı dostu uygulamalar geliştirmeyi seviyorum ve açık kaynak projelere katkıda bulunmayı hedefliyorum.
 
 📍 **Konum:** Antalya, Türkiye  
 🎓 **Durum:** Yazılım Mühendisi (Yeni Mezun)  
