@@ -1,7 +1,7 @@
 # Merhaba! 👋 Ben Mehmet KURU
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+%26+Desktop+Apps;Machine+Learning;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+%26+Desktop+Apps;Machine+Learning;" alt="Typing SVG" />
 </div>
 
 ## 🚀 Hakkımda
