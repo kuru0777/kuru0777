@@ -18,13 +18,17 @@ Flutter ve mobil uygulama geliştirme konusunda yeni mezun bilgisine sahip bir y
 ### **Frontend & Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### **Backend & Database**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### **Machine Learning & AI**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -34,6 +38,7 @@ Flutter ve mobil uygulama geliştirme konusunda yeni mezun bilgisine sahip bir y
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ## 🎯 Öne Çıkan Projeler
 
@@ -77,16 +82,6 @@ Flutter ve mobil uygulama geliştirme konusunda yeni mezun bilgisine sahip bir y
 - 🛠️ Güçlü analiz araçları
 
 **Tech Stack:** `Flutter` `Dart` `PDF Processing`
-
-### 🛒 [E-Commerce Spring Boot](https://github.com/kuru0777/E-Commerce-Spring-Boot-Project)
-> **Complete e-commerce backend solution**
-
-- 🏪 Ürün, müşteri, sepet ve sipariş yönetimi
-- 🔐 Güvenli authentication sistemi
-- 🗄️ Veritabanı entegrasyonu
-- 🚀 RESTful API design
-
-**Tech Stack:** `Java` `Spring Boot` `JPA` `MySQL`
 
 ## 📊 GitHub İstatistikleri
 
@@ -150,7 +145,7 @@ class DeveloperFocus {
 
 ## 💡 Favori Quote
 
-> *"Code is poetry written in logic. Every line should tell a story, every function should have a purpose."*
+> *"These violent delights have violent ends."*
 
 ---
 
@@ -164,4 +159,4 @@ class DeveloperFocus {
 
 <div align="center">
   <sub>Built with ❤️ by Mehmet KURU</sub>
-</div> 
+</div>
